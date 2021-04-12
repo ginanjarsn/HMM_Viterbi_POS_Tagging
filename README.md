@@ -2,7 +2,7 @@
 **Focus on POS Tagging Using HMM Viterbi.**
 
 This project is a revision from https://github.com/saneshashank/HMM_POS_Tagging
-In this project we apply Hidden Markov Model (HMM) for POS tagging. Viterbi algorithm is used for this purpose, further techniques are applied to improve the accuracy for algorithm for unknown words. Futhermore, we use emission matrix in corpus, and then used in the viterbi algorithm computation.
+In this project we apply Hidden Markov Model (HMM) for POS tagging. Viterbi algorithm is used for this purpose, further techniques are applied to improve the accuracy for algorithm for unknown words. Futhermore, we use emission matrix in corpus, and then used in the viterbi algorithm computation. This approach will reduce the computation time compared to the previous project. In this project we revise train size = 80% and test size = 20%.
 
 You can edit "sentence_test" as you like, just edit in "tesKalimat.txt" 😉😉😉
 
