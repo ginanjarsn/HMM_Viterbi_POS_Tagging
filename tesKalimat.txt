@@ -1,0 +1,13 @@
+﻿Transformasi Fourier, dinamakan atas Joseph Fourier, adalah sebuah transformasi integral yang menyatakan-kembali sebuah fungsi dalam fungsi basis sinusoidal, yaitu sebuah fungsi sinusoidal penjumlahan atau integral dikalikan oleh beberapa koefisien ("amplitudo"). 
+Ada banyak variasi yang berhubungan-dekat dari transformasi ini tergantung jenis fungsi yang ditransformasikan.
+Definisi
+Transformasi Fourier dari suatu fungsi f secara tradisional dilambangkan , dengan menambahkan sirkumfleks ke simbol fungsi. 
+Ada beberapa konvensi umum untuk mendefinisikan transformasi Fourier dari sebuah fungsi integrable
+One of them is untuk semua bilangan riil.
+
+Alasan tanda negatif dalam eksponen adalah persamaan dalam teknik elektro menjadi , yaitu by sinyal dengan fase dan frekuensi awal nol.
+[remark 1] Konvensi tanda negatif menyebabkan produk to be 1 (frekuensi nol) kapan, menyebabkan integral menyimpang. Hasilnya adalah Fungsi delta Dirac di , yang merupakan satu-satunya komponen frekuensi dari sinyal sinusoidal . 
+
+Ketika variabel independen x mewakili waktu, variabel transformasi mewakili frekuensi (contohnya, jika waktu diukur dalam detik, maka frekuensi dalam hertz). Dalam kondisi yang sesuai, f ditentukan oleh melalui transformasi terbalik: 
+
+
